@@ -29,13 +29,13 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "I love exstreme sports, skiing and surfing especially and I want to get into motor cross",
+    "I resell vintage clothing on the side (not super profitable but it pays for my clothing habit",
   ],
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I dropped out of college to enroll at Nassau Community College because I didnt know what kind of career I wanted. Im glad I took the time time to figure it out and save some money in the meantime",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
@@ -58,7 +58,7 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a business analytics student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
