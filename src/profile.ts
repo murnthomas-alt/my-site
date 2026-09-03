@@ -35,7 +35,7 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I dropped out of college to enroll at Nassau Community College because I didnt know what kind of career I wanted. Im glad I took the time time to figure it out and save some money in the meantime",
+    "I dropped out of University to enroll at Nassau Community College because I didnt know what kind of career I wanted. Im glad I took the time time to figure it out and save some money in the meantime",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
