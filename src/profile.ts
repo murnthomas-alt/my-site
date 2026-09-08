@@ -19,7 +19,7 @@ export const profile = {
   displayName: "Thomas Murn",
 
   /** Your UD email — must match the one you signed into the course with. */
-  email: "tmurnu@udel.edu",
+  email: "tmurn@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
   hometown: "Smithtown, New York",
