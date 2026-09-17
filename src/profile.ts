@@ -29,7 +29,7 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I love exstreme sports, skiing and surfing especially and I want to get into motor cross",
+    "I love extreme sports, skiing and surfing especially and I want to get into motor cross",
     "I resell vintage clothing on the side (not super profitable but it pays for my clothing habit",
   ],
 
@@ -42,7 +42,7 @@ export const profile = {
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "//Users/admin/projects442/my-site/public/PXL_20260601_002354006.jpeg",
+  photoPath: "/PXL_20260601_002354006.jpeg",
 
   /**
    * Who can see your roster card:
